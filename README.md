@@ -1,1 +1,1 @@
-this repo contains work on colaboratory 
+Contains topics covered in college
